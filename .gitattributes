@@ -1,0 +1,7 @@
+* text=auto
+*.md text eol=lf
+*.R text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.cff text eol=lf
+

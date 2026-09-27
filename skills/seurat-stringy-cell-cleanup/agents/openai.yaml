@@ -1,0 +1,5 @@
+interface:
+  display_name: "Seurat Stringy Cell Cleanup"
+  short_description: "Diagnose and manually clean stringy Seurat UMAP cells."
+  default_prompt: "Use $seurat-stringy-cell-cleanup to diagnose stringy Seurat UMAP structures and prepare a copy-first manual cleanup workflow."
+
